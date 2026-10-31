@@ -8,7 +8,7 @@
 
 <p align="center"><img src="docs/demo.gif" alt="A round of Night Shift, from creating a room to being taken out" width="300"></p>
 
-This repository is an engineering showcase. It contains the real game engine, room logic, room server and test suite, so you can read the code and run the tests. The phone screens, artwork, the other two settings and the deploy setup are kept private, so this isn't the playable game.
+This repo contains the real game engine, room logic, room server and test suite, so you can read the code and run the tests. The phone screens, artwork, the other two settings and the deploy setup are kept private, so this isn't the playable game.
 
 ---
 
