@@ -1,0 +1,12 @@
+{
+  "name": "night-shift-showcase",
+  "private": true,
+  "type": "module",
+  "description": "Engine, room logic and room server of Night Shift, a phone-based party game. Showcase only.",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
