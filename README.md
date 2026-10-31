@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/naqvikhan/night-shift-showcase/actions/workflows/test.yml/badge.svg)](https://github.com/naqvikhan/night-shift-showcase/actions/workflows/test.yml)
 
-**A real-time party game for phones in the Mafia family. The host's phone runs the night, and every player's phone is their secret card.**
+**My friends and I love Mafia, but not the setup: making role cards, remembering which playing card means what, and collecting and reshuffling between rounds. Night Shift turns every phone into a secret card and the host’s phone into the narrator. It keeps the spirit of the game, adds a bit of drama, and lets you start a round anywhere, even with people who’ve never played..**
 
 ▶ **Play it:** [nightshift.brainbrew.fun](https://nightshift.brainbrew.fun) · 4 to 16 players and a host · no app, no sign-up
 
